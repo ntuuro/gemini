@@ -21,8 +21,8 @@ Before running the project, make sure you have the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/samson-shukla/google-gemini-ai.git
-   cd google-gemini-ai
+   git clone https://github.com/ntuuro/gemini.git
+   cd gemini
    ```
 
 2. **Install Dependencies:**
